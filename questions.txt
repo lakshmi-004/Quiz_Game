@@ -1,0 +1,15 @@
+What is the size of an int data type in Java?;2 bytes;4 bytes;8 bytes;16 bytes;B
+Which keyword is used to define a constant in Java?;constant;static;final;const;C
+What is the entry point of a Java program?;start();main();init();run();B
+Which of the following is not a Java feature?;Platform Independent;Object-Oriented;Use of Pointers;Robust;C
+What does JVM stand for?;Java Virtual Machine;Java Variable Method;Java Visual Machine;Java Virtual Memory;A
+Which of the following is used to read input in Java?;Scanner;InputReader;BufferedWriter;DataReader;A
+What is the default value of a boolean variable in Java?;0;true;false;null;C
+Which operator is used to compare two values in Java?;==;=;!=;&&;A
+Which package contains the String class in Java?;java.io;java.util;java.lang;java.text;C
+What is the superclass of all classes in Java?;Object;Class;Main;Root;A
+Which keyword is used to inherit a class in Java?;super;this;extends;implements;C
+What does the 'this' keyword refer to?;Current object;Parent class;Global object;Static variable;A
+Which of the following is not a valid access modifier?;private;protected;internal;public;C
+What is used to handle exceptions in Java?;try-catch;do-while;if-else;throw-finally;A
+Which of the following is a checked exception?;NullPointerException;IOException;ArithmeticException;ClassCastException;B
